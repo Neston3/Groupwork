@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_register">Register</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_note">AddNote</string>
+    <string name="done_button">done_button</string>
+    <string name="undo_button">undo_button</string>
+    <string name="redo_button">redo_button</string>
+    <string name="attach_button">attach_button</string>
+    <string name="camera_button">camera_button</string>
+    <string name="more_button">more_button</string>
+    <string-array name="notebook_name">
+        <item>Choose notebook here...</item>
+        <item>notebook 1</item>
+        <item>notebook 2</item>
+        <item>notebook 3</item>
+    </string-array>
+    <string name="title_activity_sign_up_option">SignUpOption</string>
+    <string name="title_activity_view_note">ViewNote</string>
+    <string name="title_activity_trash">Trash</string>
+
+</resources>
