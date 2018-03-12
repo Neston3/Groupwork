@@ -72,10 +72,10 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.MyViewHolder
                 String detail=note.getNote_detail();
 
                 //passing extras to another activity
-                Intent intent=new Intent(holder.relativeLayoutnote.getContext(),ViewNote.class);
-                intent.putExtra("titlekey",title);
-                intent.putExtra("detailkey",detail);
-                holder.relativeLayoutnote.getContext().startActivity(intent);
+                //Intent intent=new Intent(holder.relativeLayoutnote.getContext(),ViewNote.class);
+              //  intent.putExtra("titlekey",title);
+              //  intent.putExtra("detailkey",detail);
+              //  holder.relativeLayoutnote.getContext().startActivity(intent);
 
 
             }
