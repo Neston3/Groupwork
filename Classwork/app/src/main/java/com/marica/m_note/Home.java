@@ -295,9 +295,9 @@ public class Home extends AppCompatActivity
         } else if (id == R.id.nav_notebook) {
 
         } else if (id == R.id.nav_trash) {
-            Intent intent=new Intent(getApplicationContext(),Trash.class);
-            startActivity(intent);
-            overridePendingTransition(R.anim.from_right,R.anim.to_left);
+            //Intent intent=new Intent(getApplicationContext(),Trash.class);
+          //  startActivity(intent);
+            //overridePendingTransition(R.anim.from_right,R.anim.to_left);
 
         } else if (id == R.id.nav_setting) {
 
